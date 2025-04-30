@@ -1,4 +1,5 @@
 # Notekeeper Django Application
+![image](https://github.com/user-attachments/assets/19eff3de-12da-4eb7-90ce-70956bc424f5)
 
 A simple Django-based web application to manage and organize your notes.
 
